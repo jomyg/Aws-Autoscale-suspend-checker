@@ -1,0 +1,1 @@
+# Aws-Autoscale-suspend-checker
